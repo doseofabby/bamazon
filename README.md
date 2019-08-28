@@ -46,5 +46,7 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
    
    ![bc1](https://user-images.githubusercontent.com/50628151/63897791-67937200-c9c4-11e9-9018-79c004102a89.PNG)
    
+   ![bc3](https://user-images.githubusercontent.com/50628151/63897803-6f531680-c9c4-11e9-96b1-78c96b023077.PNG)
+   
    
    
