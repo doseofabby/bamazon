@@ -43,3 +43,8 @@ Make sure you save and require the MySQL and Inquirer npm packages in your homew
 8. However, if your store _does_ have enough of the product, you should fulfill the customer's order.
    * This means updating the SQL database to reflect the remaining quantity.
    * Once the update goes through, show the customer the total cost of their purchase.
+   
+   ![bc1](https://user-images.githubusercontent.com/50628151/63897791-67937200-c9c4-11e9-9018-79c004102a89.PNG)
+   
+   
+   
